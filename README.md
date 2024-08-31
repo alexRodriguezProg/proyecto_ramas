@@ -1,2 +1,1 @@
-"proyecto_ramas" 
-"A¤adiendo contenido en la rama nueva-funcionalidad." 
+"Este es un cambio en la rama principal" 
